@@ -1,20 +1,20 @@
 Faça um programa em JavaScript que receba, via terminal, o nome de 10 alunos e suas respectivas notas recebidas em um determinado curso. Por exemplo:
 
 
-Nome do aluno: João da Silva
+Nome do aluno: João da Silva <br>
 Nota: 89
 
-Nome do aluno: José Maria
+Nome do aluno: José Maria <br>
 Nota: 74
 
 
 Com os nomes e as notas, calcule:
 
-a - a maior nota e o nome do aluno que a tirou
-b - a menor nota e o nome do aluno que a tirou
-c - a média de todas as notas
-d - a quantidade de alunos aprovados (nota maior ou igual a 60)
-e - a quantidade de alunos reprovados (nota menor que 60)
+a - a maior nota e o nome do aluno que a tirou <br>
+b - a menor nota e o nome do aluno que a tirou <br> 
+c - a média de todas as notas <br>
+d - a quantidade de alunos aprovados (nota maior ou igual a 60) <br>
+e - a quantidade de alunos reprovados (nota menor que 60) <br>
 
 
 Você deve utilizar os conhecimentos adquiridos no módulo 3 no FIC 1, que tratou da introdução a linguagem JavaScript. Porém, todos as funções e cálculos do exercício devem estar em um arquivo separado do index.js e você deverá importá-lo para o seu arquivo principal para utilizar as funções.
@@ -24,14 +24,11 @@ Você deve utilizar os conhecimentos adquiridos no módulo 3 no FIC 1, que trato
 1. JavaScript 
 2. NodeJS
 
-## Página em execução
-
 <br>
-<img src="./" alt="pagina em execução">
 
 <div align="center">
 
-[Visualizar Página](https://replit.com/@GabrielMorozini/exportarfuncoes?v=1)
+[Visualizar Projeto](https://replit.com/@GabrielMorozini/exportarfuncoes?v=1)
 </div>
 <br>
 
