@@ -3,7 +3,7 @@ Faça um programa em JavaScript que receba, via terminal, o nome de 10 alunos e 
 
 Nome do aluno: João da Silva
 Nota: 89
--------------------------------
+
 Nome do aluno: José Maria
 Nota: 74
 
