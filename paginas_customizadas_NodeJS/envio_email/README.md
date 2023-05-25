@@ -22,6 +22,8 @@ OBS.:
   Senha: 1234
      
   Ao abrir o link no replit, redirecione para uma nova aba em seu navegador.
+  
+  O envio irá gerar um erro pois o código fonte não possui as credenciais necessárias para concluir o envio.
 
 ## Tecnologias utilizadas  
 
