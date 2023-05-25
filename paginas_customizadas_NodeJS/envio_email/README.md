@@ -15,9 +15,13 @@ Você deve criar uma API (Application Programming Interface - Interface de Progr
 6 - As configurações do envio do e-mail (https://mailtrap.io/) serão enviadas a você pelo Mediador.
 - O e-mail que você enviará será para ele, para as configurações da conta dele. 
 
-OBS.: Usuário: admin 
-      Senha: 1234
-      Ao abrir o link no replit, redirecione para uma nova aba em seu navegador.
+OBS.: 
+
+  Usuário: admin 
+
+  Senha: 1234
+     
+  Ao abrir o link no replit, redirecione para uma nova aba em seu navegador.
 
 ## Tecnologias utilizadas  
 
