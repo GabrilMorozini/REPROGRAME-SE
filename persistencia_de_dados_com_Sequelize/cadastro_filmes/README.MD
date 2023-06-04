@@ -4,7 +4,11 @@ Instruções:
 
 -   O model deverá ter os seguintes atributos:
 
+<div align="center">
+
 <img src="../img/filme_padrao.png" alt="atributos banco de dados">
+
+</div>
 
 - Faça o CRUD da aplicação.
 
