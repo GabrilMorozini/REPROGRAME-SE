@@ -12,4 +12,10 @@ Instruções:
 - Crie o formulário para inserção dos campos do fornecedor chamado formFornecedor.html dentro da pasta views com os campos para inserção dos dados do fornecedor. O action do formulário deve ser /addfornecedor e method="post"
 - No arquivo index.js, crie a rota POST para a operação create (criar) registros na tabela fornecedor.
 
+<div align="center">
+
+## Projeto em execução
+
 <img src="../img/fornecedor.gif" alt="Projeto em execução">
+
+</div>
