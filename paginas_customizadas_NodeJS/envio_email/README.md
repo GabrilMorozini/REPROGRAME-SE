@@ -23,7 +23,7 @@ OBS.:
      
   Ao abrir o link no replit, redirecione para uma nova aba em seu navegador.
   
-  O envio irá gerar um erro pois o código fonte não possui as credenciais necessárias para concluir o envio.
+  O envio irá gerar um erro pois as credenciais necessárias para conclusão do envio foram removidas do código.
 
 ## Tecnologias utilizadas  
 
