@@ -1,0 +1,29 @@
+        <a href="/listar" class="btn btn-danger">Listar Estados.JSON</a>
+        <a href="/cadastrar" class="btn btn-info">Cadastrar Estado</a>
+        <a href="/" class="btn btn btn-dark">Atualizar Lista</a>
+          <table class="table mt-5">
+            <div class="row">
+              <div class="col-12">
+                <thead>
+                  <th>Código do Estado</th>
+                  <th>Estado</th>
+                  <th>Região</th>
+                </thead>
+                <tbody>
+                  {{#each estado}}
+                   <tr>
+                      <th>{{this.id_estado}}</th>
+                      <th>{{this.estado}}</th>
+                      <th>{{this.regiao}}</th>
+                      <th> 
+                        <form class="borde-0 m-0" action="/remover" method="POST">
+                           <input type="hidden" name="id_estado" value={{this.id_estado}}>
+                           <input type="submit" value="Excluir" name="Excluir"/>
+                        </form>
+                      </th>
+                  </tr>
+                  {{/each}}
+                </tbody>
+              </div>
+            </div>
+          </table>
